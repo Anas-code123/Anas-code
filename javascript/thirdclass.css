@@ -1,0 +1,35 @@
+body{
+    background-color: brown;
+}
+#Dune{
+    background-color: lightcoral;
+text-align: center;
+font-size: 50px;
+font-weight: 10px;
+}
+
+nav{
+    background-color: black;
+    color: white;
+}
+
+nav ul{
+    display: flex;
+    padding: 0px;
+}
+
+li{
+    list-style-type: none;
+    padding: 15px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+P{
+    font-size: 25PX;
+    font-weight: bold;
+    color: azure;
+}
